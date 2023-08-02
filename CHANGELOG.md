@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.2.3...v1.3.0) (2023-08-02)
+
+
+### Features
+
+* new execute syntaxe ([8e7958c](https://github.com/IFB-ElixirFr/R_WASM-content/commit/8e7958c469a21437b41dcb265fd2b2128952aaf3))
+* update component Solution ([68db47f](https://github.com/IFB-ElixirFr/R_WASM-content/commit/68db47f18cee5b4bdee03c7829c8de8aae6316dc))
+
 ## [1.2.3](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.2.2...v1.2.3) (2023-08-01)
 
 
