@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.7.0...v1.8.0) (2023-08-03)
+
+
+### Features
+
+* add tags and belt in metadata ([980857d](https://github.com/IFB-ElixirFr/R_WASM-content/commit/980857dbb3f5c5347e893f2128c46aad3aba0004))
+
 ## [1.7.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.6.0...v1.7.0) (2023-08-03)
 
 
