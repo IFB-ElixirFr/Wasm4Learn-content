@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.4.0...v1.5.0) (2023-08-03)
+
+
+### Features
+
+* create a classe section ([d566512](https://github.com/IFB-ElixirFr/R_WASM-content/commit/d5665128135cd8a5cae2be64dfb87c30a4098b61))
+
 ## [1.4.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.3.0...v1.4.0) (2023-08-02)
 
 
