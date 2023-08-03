@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.5.0...v1.6.0) (2023-08-03)
+
+
+### Features
+
+* add content in EBAII classe ([f9088bf](https://github.com/IFB-ElixirFr/R_WASM-content/commit/f9088bf21b6d65cf33f90d9e7b34bfa10b20a677))
+
 ## [1.5.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.4.0...v1.5.0) (2023-08-03)
 
 
