@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.1](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.8.0...v1.8.1) (2023-08-03)
+
+
+### Bug Fixes
+
+* change folder name to fit with nuxt content ([34faea1](https://github.com/IFB-ElixirFr/R_WASM-content/commit/34faea1220fc9875e771f371a3ba4ab9451443ac))
+
 ## [1.8.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.7.0...v1.8.0) (2023-08-03)
 
 
