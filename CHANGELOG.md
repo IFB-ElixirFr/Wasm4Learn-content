@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.6.0...v1.7.0) (2023-08-03)
+
+
+### Features
+
+* add original ressources ([99a0230](https://github.com/IFB-ElixirFr/R_WASM-content/commit/99a023000d86d13439ba2db73ce6ac7e7cfae94e))
+
 ## [1.6.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.5.0...v1.6.0) (2023-08-03)
 
 
