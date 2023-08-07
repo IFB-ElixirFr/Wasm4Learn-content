@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.11.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.10.0...v1.11.0) (2023-08-07)
+
+
+### Features
+
+* end section vector - R ([f43f694](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/f43f694640423f9e0533daed5a5e0b35c5c1b2a5))
+
 ## [1.10.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.9.0...v1.10.0) (2023-08-07)
 
 
