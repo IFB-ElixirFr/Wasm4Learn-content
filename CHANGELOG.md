@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.10.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.9.0...v1.10.0) (2023-08-07)
+
+
+### Features
+
+* add new session in tuto vector ([aa49702](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/aa497020d4cb4a483a00e995e7461551a88d41f5))
+
 ## [1.9.0](https://github.com/IFB-ElixirFr/R_WASM-content/compare/v1.8.1...v1.9.0) (2023-08-04)
 
 
