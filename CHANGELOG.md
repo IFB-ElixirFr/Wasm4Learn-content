@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.11.0...v1.12.0) (2023-08-07)
+
+
+### Features
+
+* ggplot2 session ([68d57b6](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/68d57b6dcbbc7e0af9b5424fcdceaafb2e1b09f5))
+
 ## [1.11.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.10.0...v1.11.0) (2023-08-07)
 
 
