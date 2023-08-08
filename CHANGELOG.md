@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.13.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.12.0...v1.13.0) (2023-08-08)
+
+
+### Features
+
+* chapter added for the vector section ([cd04b7d](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/cd04b7d9caee2e3692960377880a6e53adac2b2b))
+
 ## [1.12.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.11.0...v1.12.0) (2023-08-07)
 
 
