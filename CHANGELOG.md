@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.14.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.13.0...v1.14.0) (2023-08-09)
+
+
+### Features
+
+* create new R sessions ([952b397](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/952b397f425dd908bde17d1a1b0a99a660e033d9))
+
 ## [1.13.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.12.0...v1.13.0) (2023-08-08)
 
 
