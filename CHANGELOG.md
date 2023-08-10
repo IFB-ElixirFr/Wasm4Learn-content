@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.14.0...v1.15.0) (2023-08-10)
+
+
+### Features
+
+* add ruby ([cafdd06](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/cafdd066f63ed5207e55f6d9e4dd9392189ec1dc))
+
 ## [1.14.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.13.0...v1.14.0) (2023-08-09)
 
 
