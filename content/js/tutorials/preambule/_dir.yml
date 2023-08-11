@@ -1,6 +1,8 @@
 title: 'Les premiers pas en JavaScript'
 navigation.description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
 navigation.language: 'fr'
+navigation.author: 'GT e-formation'
+navigation.duration: XX
 navigation.belt:
   - "white"
 navigation.tags:
