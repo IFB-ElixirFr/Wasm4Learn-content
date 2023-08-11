@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.18.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.17.0...v1.18.0) (2023-08-11)
+
+
+### Features
+
+* add author and duration ([47dcd1f](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/47dcd1f2bd4ead6c73f7c5834d9c84ad57496954))
+
 ## [1.17.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.16.1...v1.17.0) (2023-08-11)
 
 
