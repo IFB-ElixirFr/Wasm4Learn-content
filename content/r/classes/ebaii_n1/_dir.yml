@@ -1,5 +1,5 @@
 title: "(Re)découvrir R à l'école EBAII niveau 1"
-description : "Source : https://github.com/IFB-ElixirFr/EBAII_IntroR"
+navigation.description: "Source : https://github.com/IFB-ElixirFr/EBAII_IntroR"
 navigation.belt:
   - "white"
 navigation.tags:
