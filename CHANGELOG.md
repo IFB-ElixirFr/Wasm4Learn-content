@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.21.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.20.0...v1.21.0) (2023-08-22)
+
+
+### Features
+
+* add gawk ([62bac5e](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/62bac5e208a4049ed66343a435f0e98323e61135))
+
 ## [1.20.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v1.19.0...v1.20.0) (2023-08-22)
 
 
