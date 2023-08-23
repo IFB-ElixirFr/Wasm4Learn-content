@@ -1,0 +1,19 @@
+title: 'Se former à R'
+navigation.description: "Ce learning path vous permettra de comprendre les bases de R: du vecteur à la visualisation de données"
+navigation.language: 'fr'
+navigation.author: 'Denis Puthier'
+navigation.duration: XX
+navigation.belt:
+  - "white"
+navigation.steps:
+  - language/r/tutorials/preambule
+  - language/r/tutorials/vectors
+  - language/r/tutorials/indexvector
+  - language/r/tutorials/factor
+  - language/r/tutorials/matrix
+  - language/r/tutorials/dataframes
+  - language/r/tutorials/lists
+  - language/r/tutorials/systemefichier
+  - language/r/tutorials/convertions
+  - language/r/tutorials/structures_conditionnelles
+  - language/r/tutorials/ggplot2
