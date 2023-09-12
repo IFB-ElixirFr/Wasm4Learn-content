@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v2.1.0...v2.1.1) (2023-09-12)
+
+
+### Bug Fixes
+
+* update 1,Preambule/2.objets.md ([9284501](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/92845016459b299242fb6f0724d9ab6480f1541f))
+
 ## [2.1.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v2.0.0...v2.1.0) (2023-08-30)
 
 
