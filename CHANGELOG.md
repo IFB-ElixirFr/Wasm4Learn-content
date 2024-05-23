@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.0](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v2.1.1...v2.2.0) (2024-05-23)
+
+
+### Features
+
+* update training content ([7ad5fe3](https://github.com/IFB-ElixirFr/Wasm4Learn-content/commit/7ad5fe3b9023bd87e1886b39476807d3399ee5d6))
+
 ## [2.1.1](https://github.com/IFB-ElixirFr/Wasm4Learn-content/compare/v2.1.0...v2.1.1) (2023-09-12)
 
 
